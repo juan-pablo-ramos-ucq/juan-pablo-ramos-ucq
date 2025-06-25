@@ -50,13 +50,13 @@ Language System) 7.5
 
 <br>
 
-Experience:
+Experiencia:
 - Enseñé HTML y CSS a estudiantes de secundaria estadounidenses a través de Zoom con la organización Bit by Bit Coding.
   Recibí un certificado como instructor voluntario destacado del mes de febrero.
 
 <br>
 
-Education:
+Educación:
 - 9.4 de promedio general.
 - Beca con 40% de descuento.
 - Cursos relevantes:
