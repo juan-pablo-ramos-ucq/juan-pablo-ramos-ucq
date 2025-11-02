@@ -22,7 +22,7 @@ Experience:
 <br>
 
 Education:
-- 94 percent grade.
+- 95.4 percent grade.
 - 40% discount scholarship.
 - Relevant courses:
   - Advanced Programming, Unix, Cloud Services, and databases.
