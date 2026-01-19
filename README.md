@@ -16,13 +16,13 @@ Language System) 7.5
 <br>
 
 Experience:
-- Taught HTML and CSS to American middle school students via Zoom through Bit by Bit Coding.
+- Taught HTML, CSS, and JS to American middle school students via Zoom through Bit by Bit Coding.
   Awarded a certificate as February's volunteer instructor.
 
 <br>
 
 Education:
-- 95.4 percent grade.
+- 96 percent grade.
 - 40% discount scholarship.
 - Relevant courses:
   - Advanced Programming, Unix, Cloud Services, and databases.
@@ -51,13 +51,13 @@ Language System) 7.5
 <br>
 
 Experiencia:
-- Enseñé HTML y CSS a estudiantes de secundaria estadounidenses a través de Zoom con la organización Bit by Bit Coding.
+- Enseñé HTML, CSS y JS a estudiantes de secundaria estadounidenses a través de Zoom con la organización Bit by Bit Coding.
   Recibí un certificado como instructor voluntario destacado del mes de febrero.
 
 <br>
 
 Educación:
-- 9.4 de promedio general.
+- 9.6 de promedio general.
 - Beca con 40% de descuento.
 - Cursos relevantes:
   - Programación Avanzada, Unix, Servicios en la Nube y base de datos.
