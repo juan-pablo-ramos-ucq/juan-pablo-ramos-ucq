@@ -55,10 +55,6 @@ A collection of React projects developed while strengthening frontend architectu
 - Software architecture and scalable web applications
 - Strengthening data structures and problem-solving skills
 
-## 📊 GitHub Stats
-
-![Juan Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-pablo-ramos-ucq&show_icons=true&hide_border=true)
-
 ## 🌐 Portfolio
 
 [jpablo.tech](https://jpablo.tech)
