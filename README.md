@@ -50,7 +50,3 @@ A collection of React projects developed while strengthening frontend architectu
 ## 🌐 Portfolio
 
 [jpablo.tech](https://jpablo.tech)
-
----
-
-> I like turning real-world problems into software that is practical, maintainable, and useful.
