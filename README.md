@@ -1,86 +1,56 @@
-## Resume Overview 
+# Hi, I'm Juan Pablo 👋
 
-Courses (skills):
-- C++
-- SQL
-- HTML
-- CSS
+Software and Computer Systems Engineering student in the ninth and final term, with experience in public cloud and a strong foundation in **React.js, Node.js, TypeScript, and C++**.
 
-<br>
+I enjoy building practical software products, with a growing focus on **backend development, cloud infrastructure, APIs, and scalable web applications**.
 
-Languages:
-- IELTS (International English 
-Language System) 7.5 
-- Spanish (native)
+## 🛠️ Tech Stack
 
-<br>
+**Languages**  
+JavaScript · TypeScript · C++ · SQL · HTML · CSS
 
-Experience:
-- Taught HTML, CSS, and JS to American middle school students via Zoom through Bit by Bit Coding.
-  Awarded a certificate as February's volunteer instructor.
+**Frontend**  
+React.js · Bootstrap
 
-<br>
+**Backend**  
+Node.js · Express.js · REST APIs
 
-Education:
-- 96 percent grade.
-- 40% discount scholarship.
-- Relevant courses:
-  - Advanced Programming, Unix, Cloud Services, and databases.
+**Databases**  
+MySQL · PostgreSQL
 
-<br>
+**Cloud & Tools**  
+Linux · DigitalOcean · Google Cloud · Git · GitHub
 
-Hobbies:
-- I enjoy walking in nature, listening to music that blends pop and classical elements, and swimming.
+## 🚀 Featured Projects
 
-<br>
+### Dallify
+A SaaS MVP built to streamline financial management for residential condominiums, including authentication, role-based access control, financial reporting, and cloud deployment.
 
-## Resumen de Curriculum  
+**Technologies:** React.js · Node.js · Express.js · MySQL · Linux · DigitalOcean
 
-Cursos (habilidades):
-- C++
-- SQL
-- HTML
-- CSS
+### Weather App
+A Flutter mobile application that provides current and hourly weather forecasts worldwide, with Google authentication and profile management.
 
-<br>
+[View repository](https://github.com/juan-pablo-ramos-ucq/flutter_weather_app)
 
-Lenguajes:
-- IELTS (International English 
-Language System) 7.5 
+**Technologies:** Flutter · Dart · Google OAuth · Open-Meteo API
 
-<br>
+### React University Projects
+A collection of React projects developed while strengthening frontend architecture, component design, and modern JavaScript skills.
 
-Experiencia:
-- Enseñé HTML, CSS y JS a estudiantes de secundaria estadounidenses a través de Zoom con la organización Bit by Bit Coding.
-  Recibí un certificado como instructor voluntario destacado del mes de febrero.
+[View repository](https://github.com/juan-pablo-ramos-ucq/react-university-projects)
 
-<br>
+## 🌱 Currently Focused On
 
-Educación:
-- 9.6 de promedio general.
-- Beca con 40% de descuento.
-- Cursos relevantes:
-  - Programación Avanzada, Unix, Servicios en la Nube y base de datos.
+- Backend engineering with Node.js and TypeScript
+- Cloud deployment and Linux environments
+- Software architecture and scalable web applications
+- Strengthening data structures and problem-solving skills
 
-<br>
+## 🌐 Portfolio
 
-Hobbies:
-- Me gusta caminar en la naturaleza, escuchar música que combina elementos del pop y la música clásica, y nadar.
+[jpablo.tech](https://jpablo.tech)
 
-<!--
-**juan-pablo-ramos-ucq/juan-pablo-ramos-ucq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+> I like turning real-world problems into software that is practical, maintainable, and useful.
